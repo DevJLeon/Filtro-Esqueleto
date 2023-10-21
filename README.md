@@ -2,7 +2,7 @@
 # Sistema Administracion Tienda de Ropa 👔👕
 Sistema de administración de tienda de ropa que permite llevar el control, registro y seguimiento de la producción de prendas de seguridad industrial, la empresa cuenta con diferentes tipos de prendas entre las cuales están las prendas resistentes al fuego (Ignifugas), resistentes a altos voltajes (Arco eléctrico).
 
-## 🚧 Se alcanzó a realizar hasta CRUD 🚧
+## 🚧 Se alcanzó a realizar hasta CRUD (Paginación, versionado, RateLimit, JWT)🚧
 
 ## Características 🌟
 
