@@ -1,3 +1,4 @@
+using System.Collections;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +8,7 @@ namespace Dominio.Entities
 {
     public class Inventario:BaseEntity
     {
-        public int CodInv { get; set; }
+        public string CodInv { get; set; }
         public double ValorVtaCop { get; set; }
         public double ValorVtaUsd { get; set; }
         public int IdPrendaFk { get; set; }

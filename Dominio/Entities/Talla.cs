@@ -10,7 +10,6 @@ namespace Dominio.Entities
         public string Descripcion { get; set; }
 
         public ICollection<InventarioTalla> InventarioTallas { get; set; }
-        public ICollection<Inventario> Inventarios { get; set; }
         public ICollection<DetalleVenta> DetalleVentas { get; set; }
     }
 }
